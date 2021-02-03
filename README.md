@@ -1,6 +1,6 @@
 # Simple Banking System
 
-In this project, I programmed a simple banking system which generates toy bank card numbers along with PINs. It stores them in a relational database along with information about the cardholder's account balance. I implemented Luhn's algorithm to validate the toy bank card numbers. I also used the SQLite database engine to build and query the database.
+In this project, I programmed a simple banking system which generates toy bank card numbers along with PINs. It stores them in a relational database along with information about the cardholder's account balance. I implemented Luhn's algorithm to generate and validate checksums for the toy bank card numbers. I also used the SQLite database engine to build and query the database.
 
 I know this program could be much more elegantly structured. The project's scope changed at different stages which required me to refactor on the fly. I needed to finish in order to stay on track, so I decided to publish the minimum workable version. I'll refactor it further when I have time. 
 
